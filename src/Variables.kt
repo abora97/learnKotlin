@@ -1,4 +1,4 @@
-package com.ahmedadel.kotlin.basics
+
 
 fun main(args: Array<String>) {
 

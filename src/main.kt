@@ -13,6 +13,9 @@ fun main() {
     val c: Int  // Type required when no initializer is provided
     c = 3       // deferred assignment
     val s = "a is $a"
+
+
+
     println(s)
     println(" max between $a and $b is ${maxOf(a, b)}")
 
@@ -43,6 +46,10 @@ fun main() {
         .sortedBy { it }
         .map { it.toUpperCase() }
         .forEach { println(it) }
+
+
+
+
 
 }
 
